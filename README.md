@@ -2,7 +2,7 @@
 
 # Universidad Autonoma de Occidente
 
-### Ambientes Colavorativos
+### Ambientes Colaborativos
 
  # Equipo:6
  
